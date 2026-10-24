@@ -1,0 +1,8 @@
+# MenteAnima 3D — pip install -r requirements.txt
+numpy>=1.24
+pillow>=10.0
+opencv-contrib-python>=4.8
+# usa la tarjeta gráfica (sin él funciona igual, más lento)
+moderngl>=5.10
+# opcional: forma 3D con TRELLIS (demo pública de Hugging Face)
+# gradio_client>=1.0
