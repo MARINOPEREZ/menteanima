@@ -4,8 +4,10 @@ De la hoja de tu personaje (frente, perfil y espalda) a un personaje 3D que cami
 **fondo transparente** (WebM, MOV, GIF) o como **modelo 3D** (.glb) con esqueleto y animaciones. Puede copiar los
 movimientos de **personas reales** (capturas de Carnegie Mellon). Todo corre en tu computador.
 
-Lo creamos con Claude Code para el canal [MenteXYZ](https://www.youtube.com/@MenteXYZ) (lección 6 del curso gratis:
-«Animar dibujos con IA: crea tu propio programa paso a paso»).
+Lo creamos con Claude Code para el canal [MenteXYZ](https://www.youtube.com/@MenteXYZ).
+
+**▶ Mira cómo lo hicimos:** [Animar dibujos con IA: crea tu propio programa paso a paso](https://youtu.be/kxiTpOouA48) (lección 6 del
+[curso gratis](https://www.youtube.com/playlist?list=PLHPY78Hq8y6I)).
 
 ## 1. Descárgalo (no necesitas cuenta de GitHub)
 
